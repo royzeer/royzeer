@@ -1,6 +1,7 @@
 # Hola, soy Roycer Cervantes
 
 **Desarrollador de software junior · Backend con Java (Spring Boot) y Node.js · Bases de datos MySQL**
+
 Santa Marta, Colombia · Español nativo · Inglés B1
 
 Me formo como **Tecnólogo en Análisis y Desarrollo de Software (SENA)** y estudio **Ingeniería Ambiental y Sanitaria en la Universidad del Magdalena**. Esa mezcla es lo que me diferencia: construyo software para problemas reales, sobre todo de gestión ambiental, entendiendo tanto el código como el tema que resuelve.
