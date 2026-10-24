@@ -62,7 +62,7 @@ API para gestionar proyectos ambientales de principio a fin: identificación de 
 ### Contacto
 
 <!-- Pon aquí tu LinkedIn y el correo donde quieres que te escriban las empresas -->
-- LinkedIn: _(agrega tu enlace)_
-- Correo: _(agrega tu correo de trabajo)_
+- LinkedIn: _https://www.linkedin.com/in/roycer-cervantes_
+- Correo: _scsteban@gmail.com_
 
 Abierto a **prácticas (etapa productiva SENA)** y oportunidades como **desarrollador junior**.
